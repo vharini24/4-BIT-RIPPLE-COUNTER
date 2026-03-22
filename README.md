@@ -69,6 +69,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90d142b3-71dc-4dc5-8857-e7f8a5212135" />
+
 
 **RESULTS**
 The ripple counter was successfully designed and implemented using Quartus Prime.
